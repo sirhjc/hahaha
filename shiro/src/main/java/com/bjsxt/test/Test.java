@@ -60,8 +60,5 @@ public class Test {
 		System.out.println("hha");
 		System.out.println("hahahaha");
 		System.out.println("test");
-		System.out.println("hahaahhaha");
-		System.out.println("afdas");
-		System.out.println("dsfasfa");
 	}
 }
