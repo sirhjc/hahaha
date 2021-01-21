@@ -16,5 +16,6 @@ public class TestPwd {
 		//迭代,对加密后的内容再次加密
 		Md5Hash md52 = new Md5Hash("zs", "1",2);
 		System.out.println(md52);
+		System.out.println("lalal");
 	}
 }
