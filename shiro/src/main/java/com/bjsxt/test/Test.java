@@ -56,7 +56,10 @@ public class Test {
 		for(int i=0;i<1;i++){
 			abc = "aaa";
 		}
+
 		System.out.println(abc);
-		int a = 1000000;
+		System.out.println("hha");
+		System.out.println("hahahaha");
+		System.out.println("test");
 	}
 }
