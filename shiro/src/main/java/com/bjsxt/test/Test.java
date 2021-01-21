@@ -57,5 +57,6 @@ public class Test {
 			abc = "aaa";
 		}
 		System.out.println(abc);
+		int a = 1000000;
 	}
 }
