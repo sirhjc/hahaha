@@ -54,8 +54,10 @@ public class Test {
 //		System.out.println(key.getEncoded().toString());
 		String abc = null;
 		for(int i=0;i<1;i++){
-			abc = "aaa";
+			abc = "aaadsafdasfdasfsadfs";
 		}
 		System.out.println(abc);
+		System.out.println("hha");
+		System.out.println("hahahaha");
 	}
 }
